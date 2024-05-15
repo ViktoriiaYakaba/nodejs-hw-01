@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Bonnie Wyman",
+    "phone": "646-832-2897 x77841",
+    "email": "Christelle_Swift@yahoo.com",
+    "job": "Regional Assurance Consultant"
+  },
+  {
+    "name": "Marlene Hansen",
+    "phone": "1-233-744-0941",
+    "email": "Beryl49@yahoo.com",
+    "job": "Dynamic Assurance Technician"
+  },
+  {
+    "name": "Ollie Stracke",
+    "phone": "868.793.8491 x126",
+    "email": "Piper.Treutel@yahoo.com",
+    "job": "Regional Creative Liaison"
+  },
+  {
+    "name": "Karla Will",
+    "phone": "(257) 654-6031 x432",
+    "email": "Thalia.Wisoky83@yahoo.com",
+    "job": "District Intranet Strategist"
+  },
+  {
+    "name": "Lucy Nader",
+    "phone": "1-574-892-5295 x6734",
+    "email": "Laron.Leuschke@yahoo.com",
+    "job": "Global Response Administrator"
+  }
+]
