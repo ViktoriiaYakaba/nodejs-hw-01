@@ -18,4 +18,4 @@ export const generateContacts = async (number) => {
     }
 };
 
-await generateContacts();
+await generateContacts(5);
