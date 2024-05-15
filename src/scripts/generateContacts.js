@@ -2,10 +2,10 @@ import fs from 'node:fs/promises';
 import { PATH_DB } from '../constants/contacts.js';
 import { createFakeContact } from '../utils/createFakeContact.js';
 
-const generateContacts = async (number) => {
+export const generateContacts = async (number) => {
     try {
         let data = await fs.readFile(PATH_DB, 'utf8');
-        
+
         const contacts = JSON.parse(data);
 
         for (let i = 0; i < number; i++) {
@@ -18,4 +18,4 @@ const generateContacts = async (number) => {
     }
 };
 
-await generateContacts(5);
+await generateContacts();
